@@ -307,6 +307,72 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "4998e787-46d2-52ed-3f40-61a9e6e47078",
+   "title": "Test Drive the App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-App-4998.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ab6ce255-ae51-ebf4-5285-423b78741ef0",
+   "title": "Rotating the Device Recreates the Activity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Rotating-the-Device-Recreates-the-Activity-ab6c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e372b51a-876f-2330-f69b-2aac2e591571",
+   "title": "onCreateView() runs After the transactions have been replayed",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/onCreateView---runs-After-the-transactions-have-been-replayed-e372.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1029f9bc-32e7-b0ee-f2bb-29df9f1c2cdc",
+   "title": "Why it Gets Reset",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Why-it-Gets-Reset-1029.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ac166a52-5822-8938-b9b7-585a9f8f8a44",
+   "title": "Full Code for WorkoutDetailFragment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Full-Code-for-WorkoutDetailFragment-ac16.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2fbe1bfb-f338-d060-9762-1ec8c255e6b7",
+   "title": "Test Drive the App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-App-2fbe.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
