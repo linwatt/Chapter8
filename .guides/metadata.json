@@ -373,6 +373,17 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "330c6d84-bfdd-8a2a-3cb4-5e7e110e4ffe",
+   "title": "Bullet Points",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bullet-Points-330c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
