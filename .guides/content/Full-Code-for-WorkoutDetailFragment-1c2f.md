@@ -1,0 +1,1 @@
+![](.guides/img/22.png)
