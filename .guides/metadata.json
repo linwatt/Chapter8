@@ -4,6 +4,7 @@
    "id": "a82d7586-7f67-dccb-c84e-55b06d88243f",
    "title": "Chapter 8",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Chapter-8-a82d.md",
@@ -69,7 +70,14 @@
   {
    "id": "e30c8631-5b2a-9219-afd7-0ce2ac75cda8",
    "title": "StopwatchFragment Code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/StopwatchFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/StopwatchFragment-Code-e30c.md",
@@ -80,7 +88,18 @@
   {
    "id": "ae2e52dd-3f75-aab0-7c1a-b7758554b63f",
    "title": "StopwatchFragment Layout Code",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/layout/fragment_stopwatch.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/StopwatchFragment-Layout-Code-ae2e.md",
@@ -91,7 +110,18 @@
   {
    "id": "5c03ef7e-f50e-d95f-3425-d4c84a6bd064",
    "title": "StopwatchFragment Layout uses String values",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/StopwatchFragment-Layout-uses-String-values-5c03.md",
@@ -102,7 +132,13 @@
   {
    "id": "bd892c58-c1f9-f0ac-3a54-4881f831c29d",
    "title": "Add Stopwatch Fragment to WorkoutDetailFragment",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-Stopwatch-Fragment-to-WorkoutDetailFragment-bd89.md",
@@ -113,7 +149,14 @@
   {
    "id": "f4929218-2168-8443-99f1-4af6bd2304d2",
    "title": "Add a FrameLayout Where the Fragment Should Go",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/fragment_workout_detail.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-a-FrameLayout-Where-the-Fragment-Should-Go-f492.md",
@@ -124,7 +167,13 @@
   {
    "id": "bd1bfbfe-5ceb-3b01-c3ac-5240ed53ec93",
    "title": "Then Display the Fragment in Java Code",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Then-Display-the-Fragment-in-Java-Code-bd1b.md",
@@ -179,7 +228,14 @@
   {
    "id": "dba73923-08f8-9311-718e-efffe13db87d",
    "title": "Display the Fragment in its Parent's onCreateView()",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Display-the-Fragment-in-its-Parent-s-onCreateView---dba7.md",
@@ -201,7 +257,18 @@
   {
    "id": "509b1101-553c-23e4-219c-e262ee800d47",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-509b.md",
@@ -212,7 +279,13 @@
   {
    "id": "019e8346-d695-09c8-7668-476617ed5784",
    "title": "Why Does the App Crash?",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Why-Does-the-App-Crash--019e.md",
@@ -256,7 +329,14 @@
   {
    "id": "2f3b262e-c8fc-9475-b241-92dd6c3b495d",
    "title": "Remove onClick Attributes From Fragment's Layout",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/fragment_stopwatch.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Remove-onClick-Attributes-From-Fragment-s-Layout-2f3b.md",
@@ -267,7 +347,18 @@
   {
    "id": "72ac1aef-fc15-4551-b8fd-006c005f26c7",
    "title": "Make the Fragment Implement OnClickListener",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/workout/StopwatchFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Make-the-Fragment-Implement-OnClickListener-72ac.md",
@@ -311,7 +402,18 @@
   {
    "id": "4998e787-46d2-52ed-3f40-61a9e6e47078",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-4998.md",
@@ -322,7 +424,13 @@
   {
    "id": "ab6ce255-ae51-ebf4-5285-423b78741ef0",
    "title": "Rotating the Device Recreates the Activity",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Rotating-the-Device-Recreates-the-Activity-ab6c.md",
@@ -355,7 +463,14 @@
   {
    "id": "ac166a52-5822-8938-b9b7-585a9f8f8a44",
    "title": "Full Code for WorkoutDetailFragment",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/workout/WorkoutDetailFragment.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Full-Code-for-WorkoutDetailFragment-ac16.md",
@@ -366,7 +481,18 @@
   {
    "id": "2fbe1bfb-f338-d060-9762-1ec8c255e6b7",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-2fbe.md",
@@ -377,7 +503,13 @@
   {
    "id": "330c6d84-bfdd-8a2a-3cb4-5e7e110e4ffe",
    "title": "Bullet Points",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Bullet-Points-330c.md",
